@@ -43,4 +43,3 @@
 - [ ] use case: jj downloader
 - [ ] use case: gary vee bot
 - [ ] use case: product interview bot
-- [ ] 
