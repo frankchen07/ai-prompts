@@ -21,6 +21,7 @@ Prompts used to actually build something:
 - `boast coffee website prompt.md` — rebuild boastcoffee.com in HTML/CSS/JS
 - `protonflow prompt.md` — ProtonMail wrapper with Gmail-style keyboard shortcuts
 - `veterinarian specula prompt.md` — text-to-CAD prompt for a vet speculum in Zoo AI
+- `trading bot prompt.md` - build a crypto trading pipeline that gives minervini and oneill trading strategies reported twice daily, uses no reasoning, and no unauthorized actions, for now
 
 ## meta / reference
 
