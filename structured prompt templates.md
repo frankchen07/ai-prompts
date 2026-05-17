@@ -45,3 +45,7 @@
 	
 - teaching - simulate a back-and-forth Q&A
 	- eli5 - explain what this means to me in simple terms
+
+- average towards the mean
+	- if you're in the top 90th percentile on [skill] then ai actually might detract from your abilities
+	- if you're in the bottom 10th percentile on [skill] then ai will pull it up
