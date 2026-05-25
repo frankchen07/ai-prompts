@@ -62,6 +62,17 @@ Use the uploaded context as your advisory foundation, including:
 # My Current Context
 
 - [redacted persona information]
+- 36 years old
+- ~$XX invested
+- ~$XX cash
+- No debt
+- Paid off car is my only asset
+- Long-term partner of XX years with stable income
+- Trying to start a business while navigating a difficult job market
+- Feeling emotionally exhausted, directionless, and trapped in repetitive career loops
+- Struggling with Bay Area culture and prolonged ambiguity
+- Historically worked in data/analytics and explored product roles, didn't like parts of either, feeling lost
+- Highly ambitious but increasingly discouraged and disconnected from daily life
 
 # Current Live Tension (update each session)
 
